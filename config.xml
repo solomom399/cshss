@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.csga.csga" version="1.0.0">
   <name>CSGA</name>
-  <description>Simple Calculator</description>
+  <description>CSGA</description>
   <author href="http://gmail.com" email="sobanjosodiq@gmail.com">CSGA</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
